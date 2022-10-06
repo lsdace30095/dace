@@ -11,8 +11,8 @@ itsdangerous==2.0.0a1
 Jinja2==3.0.0a1
 MarkupSafe==2.0.0a1
 mpmath==1.1.0
-networkx==2.5
-numpy==1.19.2
+networkx==2.6
+numpy==1.22.2
 packaging==20.4
 ply==3.11
 pyparsing==3.0.0a2
@@ -22,5 +22,5 @@ scikit-build==0.11.1
 six==1.15.0
 sympy==1.7
 urllib3==1.26.5
-websockets==9.1
+websockets==10.0
 Werkzeug==1.0.1
